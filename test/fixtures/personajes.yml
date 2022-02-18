@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  edad: 2022-02-18
+  peso: 1
+  historia: MyString
+
+two:
+  nombre: MyString
+  edad: 2022-02-18
+  peso: 1
+  historia: MyString
